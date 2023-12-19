@@ -35,7 +35,7 @@ Applications:
 | Title | Url | High-Level Category| Remarks|
 | --- | --- | --- | --- |
 | Approximate Nearest Neighbor Search on High Dimensional Data — Experiments, Analyses, and Improvement | [Link](https://arxiv.org/pdf/1610.02455.pdf) | Survey |
-| Graph-based Nearest Neighbor Search: From Practice to Theory | [Link](http://arxiv.org/abs/1907.00845) | Graph-based |
+| Graph-based Nearest Neighbor Search: From Practice to Theory | [Link](http://arxiv.org/abs/1907.00845) | Theoretical |
 | FINGER: Fast Inference for Graph-based Approximate Nearest Neighbor Search | [Link](http://arxiv.org/abs/2206.11408) | Graph-based |
 | HVS: hierarchical graph structure based on Voronoi diagrams for solving approximate nearest neighbor search | [Link](https://dl.acm.org/doi/10.14778/3489496.3489506) | Graph-based |
 | DiskANN: Fast Accurate Billion-point Nearest Neighbor Search on a Single Node | [Link](https://papers.nips.cc/paper_files/paper/2019/file/09853c7fb1d3f8ee67a61b6bf4a7f8e6-Paper.pdf) | Graph-based |
@@ -63,6 +63,9 @@ Applications:
 | Approximate Nearest Neighbor Search under Neural Similarity Metric for Large-Scale Recommendation | [Link](https://dl.acm.org/doi/10.1145/3511808.3557098) | Graph-based |
 | Norm Adjusted Proximity Graph for Fast Inner Product Retrieval | [Link](https://dl.acm.org/doi/10.1145/3447548.3467412) | Graph-based|
 | On Efficient Retrieval of Top Similarity Vectors | [Link](https://aclanthology.org/D19-1527) | Graph-based |
+| SONG: Approximate Nearest Neighbor Search on GPU | [Link](https://ieeexplore.ieee.org/document/9101583) | GPU |
+| RTNN: Accelerating Neighbor Search Using Hardware Ray Tracing | [Link](https://arxiv.org/abs/2201.01366) | GPU |
+| Billion-scale similarity search with GPUs | [Link](https://arxiv.org/abs/1702.08734) | GPU |
 | Fast neural ranking on bipartite graph indices | [Link](https://dl.acm.org/doi/10.14778/3503585.3503589) | Neural Rank |
 | Fast Item Ranking under Neural Network based Measures | [Link](https://dl.acm.org/doi/10.1145/3336191.3371830) | Neural Rank |
 | Non-metric Similarity Graphs for Maximum Inner Product Search | [Link](https://proceedings.neurips.cc/paper_files/paper/2018/hash/229754d7799160502a143a72f6789927-Abstract.html) | MIPS |
