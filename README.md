@@ -32,6 +32,59 @@ Applications:
 
 ## Papers
 
+| Title | Url | High-Level Category| Remarks|
+| --- | --- | --- | --- |
+| Approximate Nearest Neighbor Search on High Dimensional Data — Experiments, Analyses, and Improvement | [Link](https://arxiv.org/pdf/1610.02455.pdf) | Survey |
+| Graph-based Nearest Neighbor Search: From Practice to Theory | [Link](http://arxiv.org/abs/1907.00845) | Graph-based |
+| FINGER: Fast Inference for Graph-based Approximate Nearest Neighbor Search | [Link](http://arxiv.org/abs/2206.11408) | Graph-based |
+| HVS: hierarchical graph structure based on Voronoi diagrams for solving approximate nearest neighbor search | [Link](https://dl.acm.org/doi/10.14778/3489496.3489506) | Graph-based |
+| DiskANN: Fast Accurate Billion-point Nearest Neighbor Search on a Single Node | [Link](https://papers.nips.cc/paper_files/paper/2019/file/09853c7fb1d3f8ee67a61b6bf4a7f8e6-Paper.pdf) | Graph-based |
+| Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchical Navigable Small World Graphs | [Link](https://ieeexplore.ieee.org/document/8594636/) | Graph-based |
+| SONG: Approximate Nearest Neighbor Search on GPU | [Link](https://ieeexplore.ieee.org/document/9101583/) | Graph-based |
+| Graph-based Nearest Neighbor Search: Promises and Failures | [Link](http://arxiv.org/abs/1904.02077) | Graph-based |
+| Improving Approximate Nearest Neighbor Search through Learned Adaptive Early Termination | [Link](https://dl.acm.org/doi/10.1145/3318464.3380600) | Graph-based |
+| A Comprehensive Survey and Experimental Comparison of Graph-Based Approximate Nearest Neighbor Search | [Link](http://arxiv.org/abs/2101.12631) | Graph-based |
+| Fast approximate nearest neighbor search with the navigating spreading-out graph | [Link](https://dl.acm.org/doi/10.14778/3303753.3303754) | Graph-based |
+| Non-metric Similarity Graphs for Maximum Inner Product Search | [Link](https://proceedings.neurips.cc/paper_files/paper/2018/file/229754d7799160502a143a72f6789927-Paper.pdf) | Graph-based |
+| Understanding and Improving Proximity Graph-based Maximum Inner Product Search | [Link](http://arxiv.org/abs/1909.13459) | Graph-based |
+| Learning to Route in Similarity Graphs | [Link](http://arxiv.org/abs/1905.10987) | Graph-based |
+| Optimization of Indexing Based on k-Nearest Neighbor Graph for Proximity Search in High-dimensional Data | [Link](http://arxiv.org/abs/1810.07355) | Graph-based |
+| Fast Approximate Nearest Neighbor Search with a Dynamic Exploration Graph using Continuous Refinement | [Link](http://arxiv.org/abs/2307.10479) | Graph-based |
+| Efficient Approximate Nearest Neighbor Search in Multi-dimensional Databases | [Link](https://dl.acm.org/doi/10.1145/3588908) | Graph-based |
+| Scaling Graph-Based ANNS Algorithms to Billion-Size Datasets: A Comparative Analysis | [Link](http://arxiv.org/abs/2305.04359) | Graph-based |
+| SPANN: Highly-efficient Billion-scale Approximate Nearest Neighbor Search | [Link](https://arxiv.org/pdf/2111.08566.pdf) | Graph-based |
+| Hierarchical Clustering-Based Graphs for Large Scale Approximate Nearest Neighbor Search | [Link](https://www.sciencedirect.com/science/article/pii/S0031320319302730) | Graph-based |
+| Hierarchical Clustering-Based Graphs for Large Scale Approximate Nearest Neighbor Search | [Link](https://linkinghub.elsevier.com/retrieve/pii/S0031320319302730) | Graph-based |
+| Fusion of graph-based indexing and product quantization for ANN search | [Link](https://medium.com/@masajiro.iwasaki/fusion-of-graph-based-indexing-and-product-quantization-for-ann-search-7d1f0336d0d0) | Graph-based |
+| Towards Efficient Index Construction and Approximate Nearest Neighbor Search in High-Dimensional Spaces | [Link](https://dl.acm.org/doi/10.14778/3594512.3594527) | Graph-based |
+| Optimization of Indexing Based on k-Nearest Neighbor Graph for Proximity Search in High-dimensional Data | [Link](http://arxiv.org/abs/1810.07355) | Graph-based |
+| Scaling Graph-Based ANNS Algorithms to Billion-Size Datasets: A Comparative Analysis | [Link](http://arxiv.org/abs/2305.04359) | Survey |
+| Automating Nearest Neighbor Search Configuration with Constrained Optimization | [Link](https://arxiv.org/pdf/2301.01702.pdf) | Learning |
+| Approximate Nearest Neighbor Search under Neural Similarity Metric for Large-Scale Recommendation | [Link](https://dl.acm.org/doi/10.1145/3511808.3557098) | Graph-based |
+| Norm Adjusted Proximity Graph for Fast Inner Product Retrieval | [Link](https://dl.acm.org/doi/10.1145/3447548.3467412) | Graph-based|
+| On Efficient Retrieval of Top Similarity Vectors | [Link](https://aclanthology.org/D19-1527) | Graph-based |
+| Fast neural ranking on bipartite graph indices | [Link](https://dl.acm.org/doi/10.14778/3503585.3503589) | Neural Rank |
+| Fast Item Ranking under Neural Network based Measures | [Link](https://dl.acm.org/doi/10.1145/3336191.3371830) | Neural Rank |
+| Non-metric Similarity Graphs for Maximum Inner Product Search | [Link](https://proceedings.neurips.cc/paper_files/paper/2018/hash/229754d7799160502a143a72f6789927-Abstract.html) | MIPS |
+| Möbius Transformation for Fast Inner Product Search on Graph | [Link](https://proceedings.neurips.cc/paper_files/paper/2019/hash/0fd7e4f42a8b4b4ef33394d35212b13e-Abstract.html) | MIPS |
+| Understanding and Improving Proximity Graph-based Maximum Inner Product Search | [Link](http://arxiv.org/abs/1909.13459) | MIPS |
+| Reinforcement Routing on Proximity Graph for Efficient Recommendation | [Link](https://dl.acm.org/doi/10.1145/3512767) | Learning |
+| From Distillation to Hard Negative Sampling: Making Sparse Neural IR Models More Effective | [Link](https://dl.acm.org/doi/10.1145/3477495.3531857) | Learning |
+| Constructing Tree-based Index for Efficient and Effective Dense Retrieval | [Link](https://dl.acm.org/doi/10.1145/3539618.3591651) | Learning |
+| Reverse Maximum Inner Product Search: Formulation, Algorithms, and Analysis | [Link](https://dl.acm.org/doi/10.1145/3587215) | MIPS |
+| FARGO: Fast Maximum Inner Product Search via Global Multi-Probing | [Link](https://dl.acm.org/doi/10.14778/3579075.3579084) | LSH |
+| SRS: solving <i>c</i> -approximate nearest neighbor queries in high dimensional Euclidean space with a tiny index | [Link](https://dl.acm.org/doi/10.14778/2735461.2735462) | LSH |
+| From Distillation to Hard Negative Sampling: Making Sparse Neural IR Models More Effective | [Link](https://dl.acm.org/doi/10.1145/3477495.3531857) | LSH |
+| LazyLSH: Approximate Nearest Neighbor Search for Multiple Distance Functions with a Single Index | [Link](https://doi.org/10.1145/2882903.2882930) | LSH |
+| HD-index: pushing the scalability-accuracy boundary for approximate kNN search in high-dimensional spaces | [Link](https://dl.acm.org/doi/10.14778/3204028.3204034) | LSH |
+| Falconn++: A Locality-sensitive Filtering Approach for Approximate Nearest Neighbor Search | [Link](http://arxiv.org/abs/2206.01382) | LSH |
+| Deep Semantic-Preserving Ordinal Hashing for Cross-Modal Similarity Search | [Link](https://ieeexplore.ieee.org/document/8478207) | LSH |
+| Supervised Hierarchical Deep Hashing for Cross-Modal Retrieval | [Link](https://dl.acm.org/doi/10.1145/3394171.3413962) | LSH |
+| A Revisit of Hashing Algorithms for Approximate Nearest Neighbor Search | [Link](http://arxiv.org/abs/1612.07545) | LSH |
+
+Please note that some entries may require access or membership to view the full content.
+
+
 
 ## How to Contribute
 
@@ -39,9 +92,8 @@ We welcome contributions to expand and improve this collection. If you have any 
 
 1. Fork the repository.
 2. Add your paper/resource to the appropriate category or create a new category if needed.
-3. Provide a brief description or summary of the paper/resource.
-4. Include a link to the paper/resource (if available) or any relevant information.
-5. Submit a pull request.
+3. Include a link to the paper/resource (if available) or any relevant information.
+4. Submit a pull request.
 
 
 ## License
