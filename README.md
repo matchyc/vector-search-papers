@@ -43,7 +43,7 @@ Applications:
 | SONG: Approximate Nearest Neighbor Search on GPU | [Link](https://ieeexplore.ieee.org/document/9101583/) | Graph-based |
 | Graph-based Nearest Neighbor Search: Promises and Failures | [Link](http://arxiv.org/abs/1904.02077) | Graph-based |
 | Improving Approximate Nearest Neighbor Search through Learned Adaptive Early Termination | [Link](https://dl.acm.org/doi/10.1145/3318464.3380600) | Graph-based |
-| A Comprehensive Survey and Experimental Comparison of Graph-Based Approximate Nearest Neighbor Search | [Link](http://arxiv.org/abs/2101.12631) | Graph-based |
+| A Comprehensive Survey and Experimental Comparison of Graph-Based Approximate Nearest Neighbor Search | [Link](http://arxiv.org/abs/2101.12631) | Survey |
 | Fast approximate nearest neighbor search with the navigating spreading-out graph | [Link](https://dl.acm.org/doi/10.14778/3303753.3303754) | Graph-based |
 | Non-metric Similarity Graphs for Maximum Inner Product Search | [Link](https://proceedings.neurips.cc/paper_files/paper/2018/file/229754d7799160502a143a72f6789927-Paper.pdf) | Graph-based |
 | Understanding and Improving Proximity Graph-based Maximum Inner Product Search | [Link](http://arxiv.org/abs/1909.13459) | Graph-based |
@@ -80,7 +80,7 @@ Applications:
 | Falconn++: A Locality-sensitive Filtering Approach for Approximate Nearest Neighbor Search | [Link](http://arxiv.org/abs/2206.01382) | LSH |
 | Deep Semantic-Preserving Ordinal Hashing for Cross-Modal Similarity Search | [Link](https://ieeexplore.ieee.org/document/8478207) | LSH |
 | Supervised Hierarchical Deep Hashing for Cross-Modal Retrieval | [Link](https://dl.acm.org/doi/10.1145/3394171.3413962) | LSH |
-| A Revisit of Hashing Algorithms for Approximate Nearest Neighbor Search | [Link](http://arxiv.org/abs/1612.07545) | LSH |
+| A Revisit of Hashing Algorithms for Approximate Nearest Neighbor Search | [Link](http://arxiv.org/abs/1612.07545) | Survey |
 
 Please note that some entries may require access or membership to view the full content.
 
