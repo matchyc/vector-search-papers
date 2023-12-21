@@ -84,6 +84,8 @@ Applications:
 | Deep Semantic-Preserving Ordinal Hashing for Cross-Modal Similarity Search | [Link](https://ieeexplore.ieee.org/document/8478207) | LSH |
 | Supervised Hierarchical Deep Hashing for Cross-Modal Retrieval | [Link](https://dl.acm.org/doi/10.1145/3394171.3413962) | LSH |
 | A Revisit of Hashing Algorithms for Approximate Nearest Neighbor Search | [Link](http://arxiv.org/abs/1612.07545) | Survey |
+| Transformer Memory as a Differentiable Search Index | [Link](https://arxiv.org/abs/2202.06991) | Model-as-Index |
+| Recommender Systems with Generative Retrieval | [Link](https://arxiv.org/abs/2305.05065) | Model-as-Index |
 
 Please note that some entries may require access or membership to view the full content.
 
