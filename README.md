@@ -47,7 +47,7 @@ Applications:
 | Fast approximate nearest neighbor search with the navigating spreading-out graph | [Link](https://dl.acm.org/doi/10.14778/3303753.3303754) | Graph-based |
 | Non-metric Similarity Graphs for Maximum Inner Product Search | [Link](https://proceedings.neurips.cc/paper_files/paper/2018/file/229754d7799160502a143a72f6789927-Paper.pdf) | Graph-based |
 | Understanding and Improving Proximity Graph-based Maximum Inner Product Search | [Link](http://arxiv.org/abs/1909.13459) | Graph-based |
-| Learning to Route in Similarity Graphs | [Link](http://arxiv.org/abs/1905.10987) | Graph-based |
+| Learning to Route in Similarity Graphs | [Link](http://arxiv.org/abs/1905.10987) | Graph-based+DeepLearning(GCN) |
 | Optimization of Indexing Based on k-Nearest Neighbor Graph for Proximity Search in High-dimensional Data | [Link](http://arxiv.org/abs/1810.07355) | Graph-based |
 | Fast Approximate Nearest Neighbor Search with a Dynamic Exploration Graph using Continuous Refinement | [Link](http://arxiv.org/abs/2307.10479) | Graph-based |
 | Efficient Approximate Nearest Neighbor Search in Multi-dimensional Databases | [Link](https://dl.acm.org/doi/10.1145/3588908) | Graph-based |
@@ -86,6 +86,7 @@ Applications:
 | A Revisit of Hashing Algorithms for Approximate Nearest Neighbor Search | [Link](http://arxiv.org/abs/1612.07545) | Survey |
 | Transformer Memory as a Differentiable Search Index | [Link](https://arxiv.org/abs/2202.06991) | Model-as-Index |
 | Recommender Systems with Generative Retrieval | [Link](https://arxiv.org/abs/2305.05065) | Model-as-Index |
+| SPREADING VECTORS FOR SIMILARITY SEARCH | [Link](https://arxiv.org/abs/1806.03198) | Learning + Dimensionality Reduction |
 
 Please note that some entries may require access or membership to view the full content.
 
