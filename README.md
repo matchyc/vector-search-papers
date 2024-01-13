@@ -52,7 +52,7 @@ Applications:
 | Fast Approximate Nearest Neighbor Search with a Dynamic Exploration Graph using Continuous Refinement | [Link](http://arxiv.org/abs/2307.10479) | Graph-based |
 | Efficient Approximate Nearest Neighbor Search in Multi-dimensional Databases | [Link](https://dl.acm.org/doi/10.1145/3588908) | Graph-based |
 | Scaling Graph-Based ANNS Algorithms to Billion-Size Datasets: A Comparative Analysis | [Link](http://arxiv.org/abs/2305.04359) | Graph-based |
-| SPANN: Highly-efficient Billion-scale Approximate Nearest Neighbor Search | [Link](https://arxiv.org/pdf/2111.08566.pdf) | Graph-based |
+| SPANN: Highly-efficient Billion-scale Approximate Nearest Neighbor Search | [Link](https://arxiv.org/pdf/2111.08566.pdf) | Graph-Tree-based |SSD-based|
 | Hierarchical Clustering-Based Graphs for Large Scale Approximate Nearest Neighbor Search | [Link](https://www.sciencedirect.com/science/article/pii/S0031320319302730) | Graph-based |
 | Hierarchical Clustering-Based Graphs for Large Scale Approximate Nearest Neighbor Search | [Link](https://linkinghub.elsevier.com/retrieve/pii/S0031320319302730) | Graph-based |
 | Fusion of graph-based indexing and product quantization for ANN search | [Link](https://medium.com/@masajiro.iwasaki/fusion-of-graph-based-indexing-and-product-quantization-for-ann-search-7d1f0336d0d0) | Graph-based |
