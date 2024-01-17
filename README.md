@@ -38,7 +38,7 @@ Applications:
 | Graph-based Nearest Neighbor Search: From Practice to Theory | [Link](http://arxiv.org/abs/1907.00845) | Theoretical |
 | FINGER: Fast Inference for Graph-based Approximate Nearest Neighbor Search | [Link](http://arxiv.org/abs/2206.11408) | Graph-based |
 | HVS: hierarchical graph structure based on Voronoi diagrams for solving approximate nearest neighbor search | [Link](https://dl.acm.org/doi/10.14778/3489496.3489506) | Graph-based |
-| DiskANN: Fast Accurate Billion-point Nearest Neighbor Search on a Single Node | [Link](https://papers.nips.cc/paper_files/paper/2019/file/09853c7fb1d3f8ee67a61b6bf4a7f8e6-Paper.pdf) | Graph-based |
+| DiskANN: Fast Accurate Billion-point Nearest Neighbor Search on a Single Node | [Link](https://papers.nips.cc/paper_files/paper/2019/file/09853c7fb1d3f8ee67a61b6bf4a7f8e6-Paper.pdf) | Graph-based | SSD-based |
 | Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchical Navigable Small World Graphs | [Link](https://ieeexplore.ieee.org/document/8594636/) | Graph-based |
 | SONG: Approximate Nearest Neighbor Search on GPU | [Link](https://ieeexplore.ieee.org/document/9101583/) | Graph-based |
 | Graph-based Nearest Neighbor Search: Promises and Failures | [Link](http://arxiv.org/abs/1904.02077) | Graph-based |
