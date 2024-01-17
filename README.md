@@ -88,6 +88,7 @@ Applications:
 | Recommender Systems with Generative Retrieval | [Link](https://arxiv.org/abs/2305.05065) | Model-as-Index |
 | SPREADING VECTORS FOR SIMILARITY SEARCH | [Link](https://arxiv.org/abs/1806.03198) | Learning + Dimensionality Reduction |
 |Model-enhanced Vector Index|[Link](https://arxiv.org/abs/2309.13335)| Fusion Retrieval|
+|GraSP: Optimizing Graph-based Nearest Neighbor Search with Subgraph Sampling and Pruning|[Link](https://dl.acm.org/doi/abs/10.1145/3488560.3498425)| Prune edges with learning |
 
 Please note that some entries may require access or membership to view the full content.
 
