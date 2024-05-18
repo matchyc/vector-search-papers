@@ -8,7 +8,7 @@
 
 A curated collection of awesome papers in the field of vector search, known as approximate nearest neighbor search (ANN search, ANNS). This repository aims to gather high-quality research papers, articles, and resources that provide valuable insights and advancements. This technology is a critical component in vector databases, retrieval-augmented generation (RAG), large-scale information retrieval, recommendation systems, drug discovery, image search, etc.
 
-## The latest update: 2024-3-18
+## The latest update: 2024-5-18
 
 ## Table of Contents
 - [What is vector search and its applications](#what-is-vector-search-and-its-applications)
@@ -35,6 +35,7 @@ Applications:
 
 | Title | Url | High-Level Category| Remarks|
 | --- | --- | --- | --- |
+| DESSERT: An Efficient Algorithm for Vector Set Search with Vector Set Queries | [Link](https://arxiv.org/abs/2210.15748) | multi-vector |
 | Approximate Nearest Neighbor Search on High Dimensional Data — Experiments, Analyses, and Improvement | [Link](https://arxiv.org/pdf/1610.02455.pdf) | Survey |
 | Graph-based Nearest Neighbor Search: From Practice to Theory | [Link](http://arxiv.org/abs/1907.00845) | Theoretical |
 | FINGER: Fast Inference for Graph-based Approximate Nearest Neighbor Search | [Link](http://arxiv.org/abs/2206.11408) | Graph-based |
