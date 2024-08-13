@@ -35,7 +35,7 @@ Applications:
 
 | Title | Url | High-Level Category| Remarks|
 | --- | --- | --- | --- |
-|On Efficient Retrieval of Top Similarity Vectors|https://aclanthology.org/D19-1527.pdf|MIPS|MIPS for top-1|
+| On Efficient Retrieval of Top Similarity Vectors | [link](https://aclanthology.org/D19-1527.pdf) |MIPS|MIPS for top-1|
 | In-Storage Acceleration of Graph-Traversal-Based Approximate Nearest Neighbor Search | [Link](https://arxiv.org/abs/2312.03141) | NAND-Flash acceleration | Using storage compute |
 | DESSERT: An Efficient Algorithm for Vector Set Search with Vector Set Queries | [Link](https://arxiv.org/abs/2210.15748) | multi-vector |
 | Approximate Nearest Neighbor Search on High Dimensional Data — Experiments, Analyses, and Improvement | [Link](https://arxiv.org/pdf/1610.02455.pdf) | Survey |
