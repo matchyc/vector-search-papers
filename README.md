@@ -8,7 +8,7 @@
 
 A curated collection of awesome papers in the field of vector search, known as approximate nearest neighbor search (ANN search, ANNS). This repository aims to gather high-quality research papers, articles, and resources that provide valuable insights and advancements. This technology is a critical component in vector databases, retrieval-augmented generation (RAG), large-scale information retrieval, recommendation systems, drug discovery, image search, etc.
 
-## The latest update: 2025-2-17
+## The latest update: 2025-04-07
 
 ## Table of Contents
 - [What is vector search and its applications](#what-is-vector-search-and-its-applications)
@@ -29,12 +29,13 @@ Applications:
 
 - [5-use-cases-for-vector-search](https://rockset.com/blog/5-use-cases-for-vector-search/)
 - [Introduction to Vector Search for Developers](https://www.pinecone.io/learn/vector-search-basics/)
-  
+- [Inference of LLMs](https://arxiv.org/abs/2409.10516)
 
 ## Papers
 
 | Title | Url | High-Level Category| Remarks|
 | --- | --- | --- | --- |
+|Accelerating Graph Indexing for ANNS on Modern CPUs|[Link](https://arxiv.org/abs/2502.18113)|Graph-based||
 |CAGRA: Highly Parallel Graph Construction and Approximate Nearest Neighbor Search for GPUs|[Link](https://ieeexplore.ieee.org/abstract/document/10597683)|GPU||
 |ParlayANN: Scalable and Deterministic Parallel Graph-Based Approximate Nearest Neighbor Search Algorithms|[Link](https://arxiv.org/abs/2305.04359)|graph-based||
 |SymphonyQG: Towards Symphonious Integration of Quantization and Graph for Approximate Nearest Neighbor Search|[Link](https://arxiv.org/abs/2411.12229)|Graph-based|optimizing on memory access|
