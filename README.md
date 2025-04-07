@@ -8,6 +8,8 @@
 
 A curated collection of awesome papers in the field of vector search, known as approximate nearest neighbor search (ANN search, ANNS). This repository aims to gather high-quality research papers, articles, and resources that provide valuable insights and advancements. This technology is a critical component in vector databases, retrieval-augmented generation (RAG), large-scale information retrieval, recommendation systems, drug discovery, image search, etc.
 
+>I hope everyone interested in vector search can help build the list. We will list the contributors.
+
 ## The latest update: 2025-04-07
 
 ## Table of Contents
