@@ -10,7 +10,7 @@ A curated collection of awesome papers in the field of vector search, known as a
 
 >I hope everyone interested in vector search can help build the list. We will list the contributors.
 
-## The latest update: 2025-04-07
+## The latest update: 2025-05-21
 
 ## Table of Contents
 - [What is vector search and its applications](#what-is-vector-search-and-its-applications)
@@ -37,6 +37,7 @@ Applications:
 
 | Title | Url | High-Level Category| Remarks|
 | --- | --- | --- | --- |
+|Steiner-Hardness: A Query Hardness Measure for Graph-Based ANN Indexes|[Link](https://www.arxiv.org/abs/2408.13899)|Theory||
 |Accelerating Graph Indexing for ANNS on Modern CPUs|[Link](https://arxiv.org/abs/2502.18113)|Graph-based||
 |CAGRA: Highly Parallel Graph Construction and Approximate Nearest Neighbor Search for GPUs|[Link](https://ieeexplore.ieee.org/abstract/document/10597683)|GPU||
 |ParlayANN: Scalable and Deterministic Parallel Graph-Based Approximate Nearest Neighbor Search Algorithms|[Link](https://arxiv.org/abs/2305.04359)|graph-based||
