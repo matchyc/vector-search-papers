@@ -37,6 +37,7 @@ Applications:
 
 | Title | Url | High-Level Category| Remarks|
 | --- | --- | --- | --- |
+| Angular Distance-Guided Neighbor Selection for Graph-Based Approximate Nearest Neighbor Search | [Link](https://dl.acm.org/doi/pdf/10.1145/3696410.3714870) | Graph-based |
 |Steiner-Hardness: A Query Hardness Measure for Graph-Based ANN Indexes|[Link](https://www.arxiv.org/abs/2408.13899)|Theory||
 |Accelerating Graph Indexing for ANNS on Modern CPUs|[Link](https://arxiv.org/abs/2502.18113)|Graph-based||
 |CAGRA: Highly Parallel Graph Construction and Approximate Nearest Neighbor Search for GPUs|[Link](https://ieeexplore.ieee.org/abstract/document/10597683)|GPU||
