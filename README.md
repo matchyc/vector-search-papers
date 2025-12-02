@@ -104,6 +104,7 @@ Applications:
 |Low-Precision Quantization for Efficient Nearest Neighbor Search| [Link](https://arxiv.org/pdf/2110.08919.pdf) |scalar quantization |
 |Worst-case Performance of Popular Approximate Nearest Neighbor Search Implementations: Guarantees and Limitations | [Link](https://arxiv.org/abs/2310.19126) | Graph-based |
 | Navigable Graphs for High-Dimensional Nearest Neighbor Search: Constructions and Limits | [Link](https://arxiv.org/abs/2405.18680v3) | Theoretical |
+| Angular Distance-Guided Neighbor Selection for Graph-Based Approximate Nearest Neighbor Search | [Link](https://dl.acm.org/doi/pdf/10.1145/3696410.3714870) | Graph-based |
 
 
 Please note that some entries may require access or membership to view the full content.
